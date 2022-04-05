@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas10_19
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 71db392e40389e74d83ab13a1a5a3f89, type: 3}
+    - {fileID: 102900000, guid: 0ba3f124d2e7f954fb6de7ade044b491, type: 3}
+    - {fileID: 102900000, guid: 5171f74983592c24ca94a539568788de, type: 3}
+    - {fileID: 102900000, guid: d1293a9cc94736c439c9f9c0e4b6c129, type: 3}
+    - {fileID: 102900000, guid: 6ef621a46c8390b46bf908c008ebbf37, type: 3}
+    - {fileID: 102900000, guid: 3f3593d73550bb34fafd10823a3d88d0, type: 3}
+    - {fileID: 102900000, guid: 9cf8278a0e4285e4fb77e3332d92200f, type: 3}
+    - {fileID: 102900000, guid: 71ae590fe0b0bb148893f3bddd828008, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 215bc3000cb0c0f4992df0215166f806, type: 3}
+  - {fileID: 21300000, guid: ed35df4065e13f540b37d7541923e3c6, type: 3}
+  - {fileID: 21300000, guid: 627e2bd01a913a5428aa9f735980b0bc, type: 3}
+  - {fileID: 21300000, guid: 3ec8f75148482034cbc8531a0230e6aa, type: 3}
+  - {fileID: 21300000, guid: d69f7851d8782c64f9fc0cb4b2eca3af, type: 3}
+  - {fileID: 21300000, guid: c75b3861f3f5d1b468ea522693974b48, type: 3}
+  - {fileID: 21300000, guid: ec399e91550ef154dbd3e48f1bf4ac9f, type: 3}
+  - {fileID: 21300000, guid: 2128ebb100c72b442bf57ae109be56e7, type: 3}
+  - {fileID: 21300000, guid: cb822dc1c7edd9b42baf131ed37f67c3, type: 3}
+  - {fileID: 21300000, guid: cc4d87e1cace82e498815da674e14f4e, type: 3}
+  - {fileID: 21300000, guid: 16b68b52e2bd7184cb3162def3230aa1, type: 3}
+  - {fileID: 21300000, guid: 679a11e2ea5c78e49803f012bcc71346, type: 3}
+  - {fileID: 21300000, guid: fe5330f2e09f54d43927effa323a0c7e, type: 3}
+  - {fileID: 21300000, guid: fe1f07f234c4dde4aa608d3dc112e962, type: 3}
+  - {fileID: 21300000, guid: ee5d0b23caa128c4f91088ece7b34d5c, type: 3}
+  - {fileID: 21300000, guid: 4fb0bf53fc9ead94aaf197dfd415bb96, type: 3}
+  - {fileID: 21300000, guid: 24456a73efee98f4c92e5ee42bb84f03, type: 3}
+  - {fileID: 21300000, guid: 746187c3418892d448354536833c7614, type: 3}
+  - {fileID: 21300000, guid: 39ba6ed3a9df3a64d893bc60116a00b6, type: 3}
+  - {fileID: 21300000, guid: b7f8d8443fb264f4295449a476b2a31e, type: 3}
+  - {fileID: 21300000, guid: 58a2fba4c48947c48b5033345e7f878f, type: 3}
+  - {fileID: 21300000, guid: ac33d925062a0d84c9bf579b0d38f851, type: 3}
+  - {fileID: 21300000, guid: 89b6dc352b4aabe43b896ffb27f15907, type: 3}
+  - {fileID: 21300000, guid: d2f082752b307fc4a8eb1452efda1e24, type: 3}
+  - {fileID: 21300000, guid: 2cbccc95751236b4fa62dd9ef273f3e9, type: 3}
+  - {fileID: 21300000, guid: e36d8db53c2b86646bb8fee605082f53, type: 3}
+  - {fileID: 21300000, guid: 84ba6456e6586934a8d3c7ccc63ed480, type: 3}
+  - {fileID: 21300000, guid: dc387cf6fd839f84cab5123710b592e0, type: 3}
+  - {fileID: 21300000, guid: 668ff8575caf26140ba4b9e0f091194a, type: 3}
+  - {fileID: 21300000, guid: 1271efa795595f24b90625fc73e70864, type: 3}
+  - {fileID: 21300000, guid: a88005d8e422cb14aba1973d5e0ec382, type: 3}
+  - {fileID: 21300000, guid: 635825d872c354d45b700c0c0b89c885, type: 3}
+  - {fileID: 21300000, guid: 5adec2096afec984bb1baaad8d2d4858, type: 3}
+  - {fileID: 21300000, guid: 8ec40b19bf6d7b044a431cf455b1721b, type: 3}
+  - {fileID: 21300000, guid: 1d9ad7698a6f1394ea71d275112c8324, type: 3}
+  - {fileID: 21300000, guid: 797af679f94a46a48aa4e255b7becd1f, type: 3}
+  - {fileID: 21300000, guid: 56e1d9d936d6edd4e99d7ae36bea460e, type: 3}
+  - {fileID: 21300000, guid: 828ec60a91430ed4d84615da681906bd, type: 3}
+  - {fileID: 21300000, guid: 5928404ab1e9a9745886abee2e3ed769, type: 3}
+  - {fileID: 21300000, guid: f953054aa63396b4a9bdc08e601e6c2c, type: 3}
+  - {fileID: 21300000, guid: f11ff2ca588d04e478dad648840649d3, type: 3}
+  - {fileID: 21300000, guid: ed4094ea55a68a245b64e30dfc6a1b8e, type: 3}
+  - {fileID: 21300000, guid: 552b5b0b56722314db8322c4c2be5c86, type: 3}
+  - {fileID: 21300000, guid: 9f06293b29cddc94abe78a547c774400, type: 3}
+  - {fileID: 21300000, guid: 1fd821ab22f8c4040a7054902937662b, type: 3}
+  - {fileID: 21300000, guid: 615e6b5c439c8ac449f2803b9243c714, type: 3}
+  - {fileID: 21300000, guid: 0da0f56c17d921e42a77fdfa1ffece6d, type: 3}
+  - {fileID: 21300000, guid: ed2695ec79ce345489575296a02079bb, type: 3}
+  - {fileID: 21300000, guid: 31dc51cd9ee1e454b87fa9fb21afb91b, type: 3}
+  - {fileID: 21300000, guid: b74db94e1b968824cbf5447025809fbe, type: 3}
+  - {fileID: 21300000, guid: 7af178beac3830142a9d98b681262c5f, type: 3}
+  - {fileID: 21300000, guid: 9505970fd54684f4ab905d1e2e15eabf, type: 3}
+  - {fileID: 21300000, guid: c9fd008ffc1f78a4ea32d01f5ac4f18c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - next_up
+  - apple1_side1
+  - castle_far_sky
+  - bottom_pong
+  - ganpan
+  - fuji_top_32_dot
+  - room3
+  - side1
+  - bestway_back
+  - side2
+  - me_1
+  - bottom_sea
+  - side2_notebook
+  - jack2
+  - moai2_2
+  - top
+  - fuji_frame_dot2
+  - side1
+  - side1
+  - knight_1
+  - side2
+  - IandMoai_cut2
+  - ophelia1_1
+  - side2
+  - magnet_21
+  - room2
+  - bird1_2
+  - fuji_frame_dot
+  - earth 1
+  - people
+  - magnet1_r2
+  - top1_sky
+  - room1
+  - magnet
+  - party
+  - side_birds
+  - back
+  - "bottom - \uBCF5\uC0AC\uBCF8"
+  - top_clud
+  - skytop
+  - side4
+  - side_lions
+  - castle
+  - castle_side
+  - side4
+  - hamlet_1
+  - magnet1_2
+  - side3
+  - back
+  - fuji_cut
+  - side5
+  - IandMoai
+  - back_I
+  m_RenderDataMap: {}
+  m_Tag: Atlas10_19
+  m_IsVariant: 0
